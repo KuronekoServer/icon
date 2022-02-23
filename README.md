@@ -1,0 +1,2 @@
+# icon
+KuronekoServerのロゴ
