@@ -1,2 +1,3 @@
 # icon
-KuronekoServerのロゴ
+KuronekoServerのロゴやアイコン。<br>
+引用、ダウンロードしないでください
